@@ -1,2 +1,2 @@
-# MonsterPendu
-Ceci est un pendu en C#
+# Poker
+Ceci est un jeu de poker en C#
